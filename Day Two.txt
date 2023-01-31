@@ -1,0 +1,15 @@
+1) Screpts/codes will save in github application controlled by respective organization as reposetry.
+2)Run Desktp applications required OS (Windows/Linux,etc)
+3)Run Mobile application required operating Sytem (Android,IOS,etc)
+4)Run WEB application---Internet-Browser required.
+5) GUI (Frontend)-Server (Backend)-Database
+ 
+GUI----Grafical User Interface--Frontend :Frontend Devlopers using HTML,CSS,JS and these are frontend Techonologies.
+
+Server (Backend)---PYTHON,JAWA,JS(Jawa Scripting).
+PYTHON called as serverside scripting language.
+
+6) PYTHON using area:
+1)Data Sicence
+2)AI/machine Learing
+3)WEB Devolpment. 
