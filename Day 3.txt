@@ -1,0 +1,48 @@
+
+Module 1:
+
+Founder of PYTHON: Guido Van Rossum
+
+How PYTHON name given: Guido wase reading the published scripts from 'Monty Pythons Flying Circus'Show in BBC Comedy series from the 1970s.He thought that PYTHON name was short.
+
+Python 2 stopped in 2020.
+Current Version Python 3.
+
+High Level Language ---Python, Java , JS
+Middle Level----C, C++
+Low level----Assembly language (Mov addd Add)Bytecode
+Machine level---Binary Code 010101 processor(Low voltage 0—High Voltage 1)
+
+'Software' ---- is requied to brea the High leve to Machine level lnuage-'PYTHON Interpreter' (High level to Machine Level)
+ 
+'C-Python' (Fastest PYTHON)
+
+WHY PYTHON is called highg level programming language:
+
+1) General Purpose-----we can develop any kind of software except OS.
+
+2) Free and Open Source------Freely available and We can take the source coded and modify and use it for our own 
+
+3) Compiler (C,C++/Line by Line code execution)–Interpreted Language (hidden compilation)
+
+4) Portable language.
+
+5) Procedure and Object Oriented Programming paradigm
+
+Procedure Oriented-------Steps--Functions
+Object Oriented----------Classes and Objects 
+
+6) Dynamically Typed language:
+ 
+'Statically Typed' ---C, C++
+We have to specify the data type when we are declaring the variable, Int
+Throught life of variable we cant change the data type
+ 
+'Dynamically Typed' programming languges: PYTHON , Java Script
+Data type is not specified at the time of declaration,
+We can change datatype of variable
+a="22"
+a="Bangalore"
+
+
+
