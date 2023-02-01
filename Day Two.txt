@@ -6,7 +6,7 @@
  
 GUI----Grafical User Interface--Frontend :Frontend Devlopers using HTML,CSS,JS and these are frontend Techonologies.
 
-Server (Backend)---PYTHON,JAWA,JS(Jawa Scripting).
+Server (Backend)---PYTHON,JAVA,JS(Java Scripting).
 PYTHON called as serverside scripting language.
 
 6) PYTHON using area:
