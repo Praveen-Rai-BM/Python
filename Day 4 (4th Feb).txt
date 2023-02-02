@@ -1,0 +1,13 @@
+Installing any module in PYTHON
+
+pip install MODULE NAME (system will install latest version)
+
+Particular Version installatio
+
+pip install maodlue-name==Version Number
+
+Version 4.1.6 (4-Major Version, 1-minor version, 6-Bug fixing/patch)
+
+Unistalation:
+
+pip uninstall Module Name (no need to specify the version numbers)
