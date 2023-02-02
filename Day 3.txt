@@ -13,7 +13,7 @@ Middle Level----C, C++
 Low level----Assembly language (Mov addd Add)Bytecode
 Machine level---Binary Code 010101 processor(Low voltage 0—High Voltage 1)
 
-'Software' ---- is requied to brea the High leve to Machine level lnuage-'PYTHON Interpreter' (High level to Machine Level)
+'Software' ---- is requied to break the High level to Machine level lnuage-'PYTHON Interpreter' (High level to Machine Level)
  
 'C-Python' (Fastest PYTHON)
 
@@ -21,7 +21,7 @@ WHY PYTHON is called highg level programming language:
 
 1) General Purpose-----we can develop any kind of software except OS.
 
-2) Free and Open Source------Freely available and We can take the source coded and modify and use it for our own 
+2) Free and Open Source------Freely available and We can take the source coded and modify and use it for our own project requirments.
 
 3) Compiler (C,C++/Line by Line code execution)–Interpreted Language (hidden compilation)
 
