@@ -1,0 +1,5 @@
+name=input("Enter your Name")
+age=int(input("Enter Your Age"))
+place=input("Enter your place")
+print(f"Hi {name} your age is {age} and place is {place}")
+print("Hi %s your age is %i and place is %s"%(name,age,place))
